@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mhmt9.github.io/sitemap.xml
